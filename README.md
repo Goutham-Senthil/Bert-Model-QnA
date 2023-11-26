@@ -1,6 +1,6 @@
 # Question Answering using BERT
 
-This repository contains a single Python script `qa.py` to fine-tune and use a BERT model for question answering with the SQuAD dataset.
+This repository contains a single Python script `NLP_Project_BERT_Model.ipynb` to fine-tune and use a BERT model for question answering with the SQuAD dataset.
 
 ## Requirements  
 
